@@ -1,7 +1,7 @@
 # Machine_Learning
 In this section, I will put and update my machine learning related codes:
 
-*k_means_clustering.ipynb:
+<b>*k_means_clustering.ipynb:</b>
 
 the dataset I used is "Mall_Customers.csv" which I had to cluster the spending-score of the customers of a mall based on their annual income, and then rate the customers as careful, careless or best target for the mall!
 
