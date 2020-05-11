@@ -13,3 +13,6 @@ you can either email me to send you my own dataset of cats and dogs images, or y
 
 <b>* logistic_regression_classification_social_network_ads.ipynb:</b>
 The dataset is "Social_Network_Ads.csv", and this code predicts if costumers will buy a prodcut, and the code works for annnnnny advertisement/classification dataset.
+
+<b> *naive bayes_classification.ipynb:</b>
+The dataset is "Social_Network_Ads.csv", and this code predicts if costumers will buy a prodcut.
