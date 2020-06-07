@@ -19,3 +19,6 @@ The dataset is "Social_Network_Ads.csv", and this code predicts if costumers wil
 
 <b> *decision_tree_classification_social_network_ads.ipynb:</b>
 The dataset is "Social_Network_Ads.csv", and this code predicts if costumers will buy a prodcut.
+
+<b> *03_Data Preprocessing_costumers.ipynb:</b>
+The dataset is "Data.csv", but the goal in here was the "Data Preprecessing" process, not the dataset.
