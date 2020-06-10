@@ -24,4 +24,6 @@ The dataset is "Social_Network_Ads.csv", and this code predicts if costumers wil
 The dataset is "Data.csv", but the goal in here was the "Data Preprecessing" process, not the dataset.
 
 <b> *06_Regression_Simple Linear Regression.ipynb:</b>
+The dataset is "Salary_Data.csv".
+<b> *06_Regression_Simple Linear Regression.ipynb:</b>
 The dataset is "Salary_Data.csv", but the goal in here was the "Data Preprecessing" process, not the dataset.
