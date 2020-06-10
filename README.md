@@ -28,3 +28,6 @@ The dataset is "Salary_Data.csv".
 
 <b> *07_Regression_Multiple Linear Regression.ipynb:</b>
 The dataset is "50_Startups.csv".
+
+<b> *08_Regression_Polynomial Regression.ipynb:</b>
+The dataset is "Position_Salaries.csv".
