@@ -12,22 +12,29 @@ you can either email me to send you my own dataset of cats and dogs images, or y
 
 
 <b>* logistic_regression_classification_social_network_ads.ipynb:</b>
+
 The dataset is "Social_Network_Ads.csv", and this code predicts if costumers will buy a prodcut, and the code works for annnnnny advertisement/classification dataset.
 
 <b> *naive bayes_classification.ipynb:</b>
+
 The dataset is "Social_Network_Ads.csv", and this code predicts if costumers will buy a prodcut.
 
 <b> *decision_tree_classification_social_network_ads.ipynb:</b>
+
 The dataset is "Social_Network_Ads.csv", and this code predicts if costumers will buy a prodcut.
 
 <b> *03_Data Preprocessing_costumers.ipynb:</b>
+
 The dataset is "Data.csv", but the goal in here was the "Data Preprecessing" process, not the dataset.
 
 <b> *06_Regression_Simple Linear Regression.ipynb:</b>
+
 The dataset is "Salary_Data.csv".
 
 <b> *07_Regression_Multiple Linear Regression.ipynb:</b>
+
 The dataset is "50_Startups.csv".
 
 <b> *08_Regression_Polynomial Regression.ipynb:</b>
+
 The dataset is "Position_Salaries.csv".
