@@ -25,5 +25,6 @@ The dataset is "Data.csv", but the goal in here was the "Data Preprecessing" pro
 
 <b> *06_Regression_Simple Linear Regression.ipynb:</b>
 The dataset is "Salary_Data.csv".
-<b> *06_Regression_Simple Linear Regression.ipynb:</b>
-The dataset is "Salary_Data.csv", but the goal in here was the "Data Preprecessing" process, not the dataset.
+
+<b> *07_Regression_Multiple Linear Regression.ipynb:</b>
+The dataset is "50_Startups.csv".
