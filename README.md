@@ -42,3 +42,7 @@ The dataset is "Position_Salaries.csv".
 <b> *09_Regression_SVR.ipynb:</b>
 
 The dataset is "Position_Salaries.csv".
+
+<b> *10_Regression_Decision Tree Regression.ipynb:<b>
+  
+  The dataset is "Position_Salaries.csv".
