@@ -43,11 +43,11 @@ The dataset is "Position_Salaries.csv".
 
 The dataset is "Position_Salaries.csv".
 
-<b> *10_Regression_Decision Tree Regression.ipynb:<b>
+<b> *10_Regression_Decision Tree Regression.ipynb:</b>
   
   The dataset is "Position_Salaries.csv".
   
-  <b> *11_Regression_Random Forest Regression.ipynb:<b>
+  <b> *11_Regression_Random Forest Regression.ipynb:</b>
   
   The dataset is "Position_Salaries.csv".
   
