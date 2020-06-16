@@ -56,5 +56,5 @@ The dataset is "Position_Salaries.csv".
   The dataset is "Data.csv".
   
   <b> *16_Classification_Logistic Regression_Social Nework Ads.ipynb:</b>
-  The dataset is "Social_Network_Ads.csv".
+  The dataset is "Social_Network_Ads.csv". The features are "Age" and "Salary" and based on these two indepandant variables, we ant to see if a user purchsed the product or not, according to label "Purchased".
   
