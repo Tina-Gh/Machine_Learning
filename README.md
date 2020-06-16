@@ -1,3 +1,10 @@
+<b> *Notes:</b>
+
+Q) For which models we MUST use Feature Scaling?
+A) up untill now, we do not have to use it for "Simple/Multiple/Polynomial Regression". We aslo DO NOT use it for "Decision Tree / Random Forest Regression" becase it doesn't make any sense since these models are based on simply splitting the data over and over and are not based on a special mathematical equation. We aslo do not have to 'necessarily use it for "Logistic Regression Classification" but employing it will improve the performance of it (So I used it in my model).
+
+But, we HAVE TO use it for "SVR Regression".
+
 # Machine_Learning
 In this section, I will put and update my machine learning related codes:
 
