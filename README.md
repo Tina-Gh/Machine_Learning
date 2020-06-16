@@ -55,3 +55,6 @@ The dataset is "Position_Salaries.csv".
   
   The dataset is "Data.csv".
   
+  <b> *16_Classification_Logistic Regression_Social Nework Ads.ipynb:</b>
+  The dataset is "Social_Network_Ads.csv".
+  
