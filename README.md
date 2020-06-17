@@ -70,3 +70,10 @@ The dataset is "Position_Salaries.csv".
   <b> *17_Classification_KNN.ipynb:</b>
   
   The dataset is "Social_Network_Ads.csv"
+  
+  <b> *</b>
+  
+  
+  <b> *18_Classification_SVM (SVR) Classification.ipynb:</b>
+  
+  The dataset is "Social_Network_Ads.csv"
