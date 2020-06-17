@@ -71,7 +71,8 @@ The dataset is "Position_Salaries.csv".
   
   The dataset is "Social_Network_Ads.csv"
   
-  <b> *</b>
+  <b> *16_Logistic Regression Classification_Breast Cancer.ipynb:</b>
+  The dataset is from <a href="https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29">UCI breast cancer dataset</a>, that I have uploaded here as breast_cancer.csv.
   
   
   <b> *18_Classification_SVM (SVR) Classification.ipynb:</b>
