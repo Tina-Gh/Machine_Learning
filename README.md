@@ -79,3 +79,7 @@ The dataset is "Position_Salaries.csv".
   <b> *18_Classification_SVM (SVC) Classification.ipynb:</b>
   
   The dataset is "Social_Network_Ads.csv"
+  
+  <b> *19_Classification_Kernel SVM.ipynb:</b>
+  
+  The dataset is "Social_Network_Ads.csv"
