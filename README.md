@@ -98,4 +98,4 @@ The dataset is "Position_Salaries.csv".
   
   <b> *23_Classification_Model Selection_....ipynb:</b>
   
-  All the "23_Classification_Model Selection_....ipynb" algorithems were written for the breaset cancer dataset "Data.csv", in order to comapre their performance. And the result was that the "Kernel SVM (SVC) Classifier" IN THIS VERY CASE, became the winner! (with accuracy of about 95% and the non-linear kernel = 'rbf')
+  The highest accuracy occored with "Decision Tree Classifucation" algorithm for the breast cancer dataset "Data.csv"! But for a sales dataset "Social_Network_Ads.csv", the best algorithm became "Kernel SVM (SVC) Classification". Therefore the winner of the which-algorithm-is-the-best-so-far-in-accuracy for this breast cancer dataset "Data.csv" is "Decision Tree Classification"! Hats off! Buuuut ofcourse it is NOT always the same case! the best chosen algorithm differes for different datasets and applications.
