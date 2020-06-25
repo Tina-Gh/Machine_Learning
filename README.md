@@ -83,3 +83,15 @@ The dataset is "Position_Salaries.csv".
   <b> *19_Classification_Kernel SVM.ipynb:</b>
   
   The dataset is "Social_Network_Ads.csv"
+  
+  <b> *20_Classification_Naive Bayes.ipynb:</b>
+  
+  The dataset is "Social_Network_Ads.csv"
+  
+  <b> *21_Classification_Decision Tree Classification.ipynb:</b>
+  
+  The dataset is "Social_Network_Ads.csv"
+  
+  <b> *22_Classification_Random Forest Classification.ipynb:</b>
+  
+  The dataset is "Social_Network_Ads.csv"
