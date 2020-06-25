@@ -95,3 +95,7 @@ The dataset is "Position_Salaries.csv".
   <b> *22_Classification_Random Forest Classification.ipynb:</b>
   
   The dataset is "Social_Network_Ads.csv"
+  
+  <b> *23_Classification_Model Selection_....ipynb:</b>
+  
+  All the "23_Classification_Model Selection_....ipynb" algorithems were written for the breaset cancer dataset "Data.csv", in order to comapre their performance. And the result was that the "Kernel SVM (SVC) Classifier" IN THIS VERY CASE, became the winner! (with accuracy of about 95%)
