@@ -103,3 +103,7 @@ The dataset is "Position_Salaries.csv".
   <b> *26_Clustering_Kmeans.ipynb:</b>
   
   The dataset is "Mall_Customers.csv".
+
+<b> *26_Clustering_Kmeans.ipynb:</b>
+
+The dataset is "Mall_Customers.csv", which clusters the customers of a mall, based on their annual income and their spending score. 5 clusters were generated and the according policy for each customer is written at the end of the code, in a sepearte cell, within 5 command lines.
