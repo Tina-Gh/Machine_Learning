@@ -15,11 +15,6 @@ In this section, I will put and update my machine learning related codes:
 you can either email me to send you my own dataset of cats and dogs images, or you can use anyyyy other dataset of your own with binary classification, such as a dangrous/benighn tumor. The code will work fine regardless of what kind of imag data you feed it, but you probably need to add slight changes in my code where I have mentioned the "size" of my own dataset, and substitute your dataset's size.
 
 
-<b> *naive bayes_classification.ipynb:</b>
-
-The dataset is "Social_Network_Ads.csv", and this code predicts if costumers will buy a prodcut.
-
-
 <b> *03_Data Preprocessing_costumers.ipynb:</b>
 
 The dataset is "Data.csv", but the goal in here was the "Data Preprecessing" process, not the dataset.
@@ -75,7 +70,7 @@ The dataset is "Position_Salaries.csv".
   
   <b> *20_Classification_Naive Bayes.ipynb:</b>
   
-  The dataset is "Social_Network_Ads.csv"
+  The dataset is "Social_Network_Ads.csv", and this code predicts if costumers will buy a prodcut.
   
   <b> *21_Classification_Decision Tree Classification.ipynb:</b>
   
