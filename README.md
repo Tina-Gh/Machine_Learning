@@ -9,10 +9,6 @@ But, we HAVE TO use it for "SVR Regression".
 # Machine_Learning
 In this section, I will put and update my machine learning related codes:
 
-<b>* k_means_clustering.ipynb:</b>
-
-the dataset I used is "Mall_Customers.csv" which I had to cluster the spending-score of the customers of a mall based on their annual income, and then rate the customers as careful, careless or best target for the mall!
-
 
 <b>* dog_cat_images_CNN_classification_project.ipynb:</b>
 
@@ -103,4 +99,4 @@ The dataset is "Position_Salaries.csv".
 
 <b> *26_Clustering_Kmeans.ipynb:</b>
 
-The dataset is "Mall_Customers.csv", which clusters the customers of a mall, based on their annual income and their spending score. 5 clusters were generated and the according policy for each customer is written at the end of the code, in a sepearte cell, within 5 command lines.
+The dataset is "Mall_Customers.csv", which clusters the customers of a mall, based on their annual income and their spending score, as careful, careless or best target for the mall! 5 clusters were generated and the according policy for each customer is written at the end of the code, in a sepearte cell, within 5 command lines.
