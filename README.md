@@ -23,9 +23,6 @@ The dataset is "Social_Network_Ads.csv", and this code predicts if costumers wil
 
 The dataset is "Social_Network_Ads.csv", and this code predicts if costumers will buy a prodcut.
 
-<b> *decision_tree_classification_social_network_ads.ipynb:</b>
-
-The dataset is "Social_Network_Ads.csv", and this code predicts if costumers will buy a prodcut.
 
 <b> *03_Data Preprocessing_costumers.ipynb:</b>
 
@@ -86,7 +83,7 @@ The dataset is "Position_Salaries.csv".
   
   <b> *21_Classification_Decision Tree Classification.ipynb:</b>
   
-  The dataset is "Social_Network_Ads.csv"
+  The dataset is "Social_Network_Ads.csv", and this code predicts if costumers will buy a prodcut.
   
   <b> *22_Classification_Random Forest Classification.ipynb:</b>
   
