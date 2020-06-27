@@ -93,7 +93,8 @@ The dataset is "Mall_Customers.csv", which clusters the customers of a mall, bas
 
 The dataset is "Market_Basket_Optimisation.csv". And since we do NOT have a special method in Python Sklearn for "Apriori" algorithm, we should first install "apyori.py" package in our notebook. This is a really exciting implementation!! It wants to tell us that for a French supermarket what kind of policy should we employ in order to sell the most! And the policy is as follows:
 
-    <b>*</b>What products should we sell and what according products should we give for free, as a result!! For instance, the strongest association products are "formage blanc" and "honey". Therefore, we sell "formage blanc" and if someone buys it, we will give them "honey" for free in order to maximize our sells!!
+**What products should we sell and what according products should we give for free, as a result!! For instance, the strongest association products are "formage blanc" and "honey". Therefore, we sell "formage blanc" and if someone buys it, we will give them "honey" for free in order to maximize our sells!!
   
   <b> *30_Association Rule_Eclat.ipynb:</b>
+  
   The dataset is "Market_Basket_Optimisation.csv". It is trained just like "Apriori" algorithm, because both are exactly the same, and the difference is that in "Eclat" we ONLY use the "support" metric (but in "Apriori" we use "support", "confidence", and "lift" metrics). That is why it is recommended usually to use "Apriori" algorithm, rather than "Eclat".
