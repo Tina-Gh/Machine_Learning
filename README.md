@@ -88,3 +88,9 @@ The dataset is "Position_Salaries.csv".
 <b> *26_Clustering_Kmeans.ipynb:</b>
 
 The dataset is "Mall_Customers.csv", which clusters the customers of a mall, based on their annual income and their spending score, as careful, careless or best target for the mall! 5 clusters were generated and the according policy for each customer is written at the end of the code, in a sepearte cell, within 5 command lines.
+
+<b> *29_Association Rule_Apriori.ipynb:</b>
+
+The dataset is "Market_Basket_Optimisation.csv". And since we do NOT have a special method in Python Sklearn for "Apriori" algorithm, we should first install "apyori.py" package in our notebook. This is a really exciting implementation!! It wants to tell us that for a French supermarket what kind of policy should we employ in order to sell the most! And the policy is as follows:
+
+What products should we sell and what according products should we give for free, as a result!! For instance, the strongest association products are "formage blanc" and "honey". Therefore, we sell "formage blanc" and if someone buys it, we will give them "honey" for free in order to maximize our sells!! 
