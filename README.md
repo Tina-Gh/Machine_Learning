@@ -98,3 +98,6 @@ The dataset is "Market_Basket_Optimisation.csv". And since we do NOT have a spec
   <b> *30_Association Rule_Eclat.ipynb:</b>
   
   The dataset is "Market_Basket_Optimisation.csv". It is trained just like "Apriori" algorithm, because both are exactly the same, and the difference is that in "Eclat" we ONLY use the "support" metric (but in "Apriori" we use "support", "confidence", and "lift" metrics). That is why it is recommended usually to use "Apriori" algorithm, rather than "Eclat".
+  
+  <b> *32_Reinforcement Learning_UCB (upper confidence bound).ipynb:</b>
+  The dataset is "Ads_CTR_Optimisation.csv".
