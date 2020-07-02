@@ -102,3 +102,8 @@ The dataset is "Market_Basket_Optimisation.csv". And since we do NOT have a spec
   <b> *32_Reinforcement Learning_UCB (upper confidence bound).ipynb:</b>
   
   The dataset is "Ads_CTR_Optimisation.csv".
+  
+  <b> *34_NLP.ipynb:</b>
+  
+   The dataset is "Restaurant_Reviews.tsv". In this code in Natural Language Processing, I did a text classification on restaurant reviews, and the accuracy became 73% 😎!
+   This section can be regraded as "sentimental Analysis" as well.
