@@ -106,4 +106,9 @@ The dataset is "Market_Basket_Optimisation.csv". And since we do NOT have a spec
   <b> *34_NLP.ipynb:</b>
   
    The dataset is "Restaurant_Reviews.tsv". In this code in Natural Language Processing, I did a text classification on restaurant reviews, and the accuracy became 73% 😎!
-   This section can be regarded as "sentimental Analysis" as well. The more complex applications of NLP (Natural Language Processing) are DNLP (Deep Natural Language Processing) and "seq2seq" in chat bots.
+   This section can be regarded as "sentimental Analysis" as well. The more complex applications of NLP (Natural Language Processing) are DNLP (Deep Natural Language Processing) and "seq2seq" in chat bots. We can also increase the accuracy even more by using Some of these great models to train our data for "NLP" applications:
+   <ol>
+      <li>CART</li>
+      <li>C5.0</li>
+      <li>Maximum Entropy</li>
+  </ol>
