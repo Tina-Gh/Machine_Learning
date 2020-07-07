@@ -117,4 +117,4 @@ The dataset is "Market_Basket_Optimisation.csv". And since we do NOT have a spec
   
   <b> *36_ANN_Classification_bank churn modeling.ipynb:</b> 
   
-  The dataset is "Churn_Modelling.csv". This ANN code decides based on the costumers information, which costumers will stay and which of them withdraw from the bank! Very useful code for banking applications!!
+  The dataset is "Churn_Modelling.csv". This ANN code decides based on the costumers information, which costumers will stay and which of them withdraw from the bank! Very useful code for banking applications!! In addition, I have uploaded a picture that shows the summary of an ANN with Stocastic Gradient Descent algorithm as "Stochastic_Gradient_Descent.png" for the reference.
