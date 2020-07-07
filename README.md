@@ -126,3 +126,11 @@ The dataset is "Wine.csv". This code employs "PCA" technique to reduce the dimen
 <b> *40_LDA.ipynb:</b>
 
 The dataset is "Wine.csv". This code does "Linear Discriminant Analysis", and acts as a perfect dimensiality reducer and also a recommender system.
+
+<b> *41_Kernel PCA_version 1.ipynb:</b>
+
+The dataset is "Wine.csv".This code does "Kernel Principal Component Analysis"and acts as a perfect dimensiality reducer and also a recommender system.
+
+<b> *41_Kernel PCA_version 2.ipynb:</b>
+
+The dataset is "Social_Network_Ads.csv".This code does "Kernel Principal Component Analysis"and acts as a dimensiality reducer and also a recommender system.
