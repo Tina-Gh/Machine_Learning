@@ -114,3 +114,7 @@ The dataset is "Market_Basket_Optimisation.csv". And since we do NOT have a spec
       <li>C5.0</li>
       <li>Maximum Entropy</li>
   </ol>
+  
+  <b> *36_ANN_bank churn modeling.ipynb:</b>
+  
+   The dataset is "Churn_Modelling.csv". This ANN code decides which 
