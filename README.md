@@ -122,3 +122,7 @@ The dataset is "Market_Basket_Optimisation.csv". And since we do NOT have a spec
 <b> *39_PCA_recommender system.ipynb:</b>
 
 The dataset is "Wine.csv". This code employs "PCA" technique to reduce the dimensiality of a wine dataset of many columns, so that to make a recommender system.
+
+<b> *40_LDA.ipynb:</b>
+
+The dataset is "Wine.csv". This code does "Linear Discriminant Analysis", and acts as a perfect dimensiality reducer and also a recommender system.
