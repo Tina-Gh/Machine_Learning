@@ -6,6 +6,8 @@ A) up untill now, we do not have to use it for "Simple/Multiple/Polynomial Regre
 
 But, we HAVE TO use it for "SVR Regression".
 
+Yet, Feature Scaling is COMULSORY for Deep Learning! So, we have to do it in ANN problems. (as I did in "36_ANN_bank churn modeling")
+
 # Machine_Learning
 In this section, I will put and update my machine learning related codes:
 
