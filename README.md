@@ -115,5 +115,6 @@ The dataset is "Market_Basket_Optimisation.csv". And since we do NOT have a spec
       <li>Maximum Entropy</li>
   </ol>
   
-  <!--<b> *36_ANN_bank churn modeling.ipynb:</b> 
-  The dataset is "Churn_Modelling.csv". This ANN code decides which -->
+  <b> *36_ANN_Classification_bank churn modeling.ipynb:</b> 
+  
+  The dataset is "Churn_Modelling.csv". This ANN code decides based on the costumers information, which costumers will stay and which of them withdraw from the bank! Very useful code for banking applications!!
