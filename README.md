@@ -138,3 +138,7 @@ The dataset is "Social_Network_Ads.csv".This code does "Kernel Principal Compone
 <b> *43_Model Selection_ kfold cross validation.ipynb:</b>
 
 The dataset is "Social_Network_Ads.csv". And the objective in this section is to use "K-fold cross validation" technique to turn the "X_train" into "k" different folds. Then we calculate all these "k" according accuracies and get their mean. The answere is a better estimator of the real accuracy of our model! Since when we calculate the accuracy by the typical "accuracy_score" method on the "X_test", the code might have chosen "X_test" perfectly, in the begining. Meaning that we got lucky and thus we think this perfect accuracy is always true :( . But if we re-reun the program, the program will choose another random set for "X_test" from "X_train", and this new test set may yield a worse accuracy! Therefore, we use "K-fold" method to check if we got lucky on the accuracy for the "X_test"! 
+
+<b> *43_Model Selection_Grid Search.ipynb:</b>
+
+The dataset is "Social_Network_Ads.csv". This code implements a "grid search" right after a "k-fold" section, using different parameters and kernels, and then finds the best accuracy and the best parameter!
