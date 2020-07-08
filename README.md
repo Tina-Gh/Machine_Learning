@@ -156,4 +156,12 @@ Thus, the best algorithms among all the classification algorithms that I have im
 
 <b> *44_Boosting_CATBoost:</b>
 
-The dataset is "Data.csv". The "CATBoost" technique is a gradient-based model that is bound to beat out the power that LightGBM (a gradient-based model that uses tree-based learning algorithms) has to offer on specific problems. CatBoost is a great self-tuning model to have in the toolkit whenever you want to get the highest accuracy on datasets that have many categorical features, which is usually the case with on-the-job problems. In this code, I implemented CatBoost on the breast cancer dataset (the same dataset we used for XGBoost = UCI's data "Data.csv").
+The dataset is "Data.csv". The "CATBoost" technique is a gradient-based model that is bound to beat out the power that LightGBM (a gradient-based model that uses tree-based learning algorithms) has to offer on specific problems. CatBoost is a great self-tuning model to have in the toolkit whenever you want to get the highest accuracy on datasets that have many categorical features, which is usually the case with on-the-job problems. In this code, I implemented CatBoost on the breast cancer dataset (the same dataset we used for XGBoost = UCI's data "Data.csv"). The benefits of "CATBoost" model are as follow:
+
+<ol>
+  <li> Great quality without parameter tuning: Reduce time spent on parameter tuning, because CatBoost provides great results with default parameters</li>
+  <li> Categorical features support: Improve your training results with CatBoost that allows you to use non-numeric factors, instead of having to pre-process your data or spend time and effort turning it to numbers.</li>
+  <li> Fast and scalable GPU version: Train your model on a fast implementation of gradient-boosting algorithm for GPU. Use a multi-card configuration for large datasets.</li>
+  <li> Improved accuracy: Reduce overfitting when constructing your models with a novel gradient-boosting scheme.</li>
+  <li> Fast prediction: Apply your trained model quickly and efficiently even to latency-critical tasks using CatBoost's model applier</li>
+<ol>  
