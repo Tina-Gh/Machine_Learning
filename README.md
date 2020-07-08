@@ -149,7 +149,7 @@ The dataset is "Data.csv". I did the breast cancer detection project that I did 
 
 Thus, the best algorithms among all the classification algorithms that I have implemented so far for the breast cancer deection are:
 <ol>
-  <li></li> XGBoost Classifier ("XGBClassifier")
-  <li></li> Decision Tree Classifier
-  <li></li> Kernel SVM (SVC)
+  <li> XGBoost Classifier ("XGBClassifier")</li> 
+  <li> Decision Tree Classifier</li> 
+  <li> Kernel SVM (SVC)</li> 
 </ol>
