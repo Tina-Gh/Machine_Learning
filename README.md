@@ -153,3 +153,7 @@ Thus, the best algorithms among all the classification algorithms that I have im
   <li> Decision Tree Classifier</li> 
   <li> Kernel SVM (SVC)</li> 
 </ol>
+
+<b> *44_Boosting_CATBoost:</b>
+
+The dataset is "Data.csv". The "CATBoost" technique is a gradient-based model that is bound to beat out the power that LightGBM (a gradient-based model that uses tree-based learning algorithms) has to offer on specific problems. CatBoost is a great self-tuning model to have in the toolkit whenever you want to get the highest accuracy on datasets that have many categorical features, which is usually the case with on-the-job problems. In this code, I implemented CatBoost on the breast cancer dataset (the same dataset we used for XGBoost = UCI's data "Data.csv").
