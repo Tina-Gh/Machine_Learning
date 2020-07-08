@@ -143,6 +143,11 @@ The dataset is "Social_Network_Ads.csv". And the objective in this section is to
 
 The dataset is "Social_Network_Ads.csv". This code implements a "grid search" right after a "k-fold" section, using different parameters and kernels, and then finds the best accuracy and the best parameter!
 
+<b> *44_Boosting_XGBoost_bank churn modeling.ipynb</b>
+
+The dataset is "Churn_Modelling.csv". I implemented this code to measure the churning rate of a bank's costumers like in "36_ANN_Classification_bank churn modeling.ipynb". But this time, I did it using "XGBoost" model.
+
+
 <b> *44_Boosting_XGBoost_breast cancer detection.ipynb:</b>
 
 The dataset is "Data.csv". I did the breast cancer detection project that I did before in "23_Classification_Model Selection_Decision Tree Classification.ipynb", now with xgboost library "XGBClassifier" class, and it beat the best accuracy I reached before for breast cancer project (the best algorithm before was "Decision Tree Classifier" and the accuracy was 95.9%). But with "XGBClassifier" the accuracy became 97.8%! So to check whether we got lucky by choosing a very good "X_test" set, I implemented a "K-fold" algorithm and the accuracy became 96.5%, which still beats the former best "Decision Tree Classifier"!!
@@ -177,3 +182,4 @@ Thus, the best algorithms among all the classification algorithms that I have im
   <li> Decision Tree Classifier</li> 
   <li> Kernel SVM (SVC)</li> 
 </ol>
+
