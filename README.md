@@ -164,11 +164,12 @@ The dataset is "Data.csv". The "CATBoost" technique is a gradient-based model th
   <li> Fast and scalable GPU version: Train your model on a fast implementation of gradient-boosting algorithm for GPU. Use a multi-card configuration for large datasets.</li>
   <li> Improved accuracy: Reduce overfitting when constructing your models with a novel gradient-boosting scheme.</li>
   <li> Fast prediction: Apply your trained model quickly and efficiently even to latency-critical tasks using CatBoost's model applier</li>
-<ol>  
+</ol>  
 
 
 So The result: 
 CatBoost has beat "XGBoost"!!!
+After implementing a "K-fold" algorithm on "XGBoost", the accuracy became "96%" but in "CATBoost" the accuracy after a "k-fold" became "97.08"!!
 Thus, the best algorithms among all the classification algorithms that I have implemented so far for the breast cancer deection are:
 <ol>
   <li><strong> CATBoost Classifier ("CatBoostClassifier") 🌟🌟</strong></li>
