@@ -165,3 +165,14 @@ The dataset is "Data.csv". The "CATBoost" technique is a gradient-based model th
   <li> Improved accuracy: Reduce overfitting when constructing your models with a novel gradient-boosting scheme.</li>
   <li> Fast prediction: Apply your trained model quickly and efficiently even to latency-critical tasks using CatBoost's model applier</li>
 <ol>  
+
+
+So The result: 
+CatBoost has beat "XGBoost"!!!
+Thus, the best algorithms among all the classification algorithms that I have implemented so far for the breast cancer deection are:
+<ol>
+  <li><strong> CATBoost Classifier ("CatBoostClassifier") 🌟🌟</strong></li>
+  <li> XGBoost Classifier ("XGBClassifier")</li> 
+  <li> Decision Tree Classifier</li> 
+  <li> Kernel SVM (SVC)</li> 
+</ol>
