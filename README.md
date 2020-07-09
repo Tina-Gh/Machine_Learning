@@ -121,7 +121,7 @@ The dataset is "Market_Basket_Optimisation.csv". And since we do NOT have a spec
   
 <b> *37_CNN_cat dog detection.ipynb:</b>
 
-The dataset is "dataset.rar" which contains dog and cat images for both the training set and the test set. The final accuracy was 90% through 25 epochs!
+The dataset is "dataset.rar" which contains dog and cat images for both the training set and the test set. The final accuracy was 90% through 25 epochs! The data set file is too huge that it would take one to two hours to clone. So, feel free to contact me if you need the dataset. (<a href="https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/#:~:text=From%20your%20repository%20page%20on,like%20to%20clone%20your%20repository." target="_blank">How to Clone files on GitHub</a>)
 
 <b> *39_PCA_recommender system.ipynb:</b>
 
