@@ -118,6 +118,10 @@ The dataset is "Market_Basket_Optimisation.csv". And since we do NOT have a spec
   <b> *36_ANN_Classification_bank churn modeling.ipynb:</b> 
   
   The dataset is "Churn_Modelling.csv". This ANN code decides based on the costumers information, which costumers will stay and which of them withdraw from the bank, which is called a "Churn Model"! Very useful code for banking applications!! In addition, I have uploaded a picture that shows the summary of an ANN with Stocastic Gradient Descent algorithm as "Stochastic_Gradient_Descent.png" for the reference.
+  
+<b> *37_CNN_cat dog detection.ipynb:</b>
+
+The dataset is "dataset.rar" which contains dog and cat images for both the training set and the test set. The final accuracy was 90%!
 
 <b> *39_PCA_recommender system.ipynb:</b>
 
