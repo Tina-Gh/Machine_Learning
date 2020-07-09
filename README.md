@@ -1,13 +1,3 @@
-<head>
-<style>
-div {
-  text-align: justify;
-  text-justify: inter-word;
-}
-
-</style>
-</head>
-
 <b> *Notes:</b>
 
 Q) For which models we MUST use Feature Scaling?
