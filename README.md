@@ -1,7 +1,12 @@
+<head>
+<style>
 div {
   text-align: justify;
   text-justify: inter-word;
 }
+
+</style>
+</head>
 
 <b> *Notes:</b>
 
