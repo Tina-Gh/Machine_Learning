@@ -121,7 +121,7 @@ The dataset is "Market_Basket_Optimisation.csv". And since we do NOT have a spec
   
 <b> *37_CNN_cat dog detection.ipynb:</b>
 
-The dataset is "dataset.rar" which contains dog and cat images for both the training set and the test set. The final accuracy was 90%!
+The dataset is "dataset.rar" which contains dog and cat images for both the training set and the test set. The final accuracy was 90% through 25 epochs!
 
 <b> *39_PCA_recommender system.ipynb:</b>
 
