@@ -119,6 +119,11 @@ The dataset is "Market_Basket_Optimisation.csv". And since we do NOT have a spec
   
   The dataset is "Churn_Modelling.csv". This ANN code decides based on the costumers information, which costumers will stay and which of them withdraw from the bank, which is called a "Churn Model"! Very useful code for banking applications!! In addition, I have uploaded a picture that shows the summary of an ANN with Stocastic Gradient Descent algorithm as "Stochastic_Gradient_Descent.png" for the reference.
   
+  
+<b> *36_ANN_Regression power plant energy dataset.ipynb:</b>
+
+The dataset is "Folds5x2_pp.xlsx" from <a href="https://archive.ics.uci.edu/ml/datasets/Combined+Cycle+Power+Plant" target="_blank">UCI's Combined Cycle Power Plant dataset</a>. The goal was to perform a Regression task in ANN and see the differences from a Classification task in ANN. The main difference (Codewise ofcourse!!) was the output layer's "activation" function that we do NOT assign a function to, and also the the compiling "loss" that we choose "mean_squared_error" (as we usually do in all other Regression tasks). Then I predicted the output energy of this power plant for different test set's environmental features "Air Temperature, Vacuum, Air Pressure, and Humidity".
+  
 <b> *37_CNN_cat dog detection.ipynb:</b>
 
 The dataset is "dataset.rar" which contains dog and cat images for both the training set and the test set. The final accuracy was 90% through 25 epochs! The data set file is too huge that it would take one to two hours to clone. So, feel free to contact me if you need the dataset. (<a href="https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/#:~:text=From%20your%20repository%20page%20on,like%20to%20clone%20your%20repository." target="_blank">How to Clone files on GitHub</a>)
