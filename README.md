@@ -6,7 +6,7 @@ A) Up until now, we do not have to use it for "Simple/Multiple/Polynomial Regres
 
 But, we HAVE TO use it for "SVR Regression."
 
-Yet, Feature Scaling is COMPULSORY for Deep Learning! So, we have to do it in ANN problems. (as I did in "36_ANN_bank churn modeling") And it is so essential that we apply it to all the columns!
+Yet, Feature Scaling is COMPULSORY for Deep Learning! So, we have to do it in ANN problems. (as I did in "36_ANN_bank churn modeling") And it is so essential that we apply it to all the columns! We also do feature scaling for "Self Organizing Maps".
 
 # Machine_Learning
 In this section, I will put and update my machine learning related codes:
