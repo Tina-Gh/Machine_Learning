@@ -19,7 +19,7 @@ The general machine learning methodology:
   <li>Data Splitting</li>
   <li>Feature Scaling</li>
   <li>Model</li>
-  <li>Evaluate</li>
+  <li>Evaluating the model</li>
 </ol>
 
 # Machine_Learning
