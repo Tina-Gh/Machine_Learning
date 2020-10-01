@@ -8,6 +8,21 @@ But, we HAVE TO use it for "SVR Regression."
 
 Yet, Feature Scaling is COMPULSORY for Deep Learning! So, we have to do it in ANN problems. (as I did in "36_ANN_bank churn modeling") And it is so essential that we apply it to all the columns! We also do feature scaling for "Self Organizing Maps".
 
+
+<b> *Notes:</b>
+
+The general machine learning methodology:
+<ol>
+  <li>Importing the libraries</li>
+  <li>Importing the dataset {df + x&y}</li>
+  <li>Data Engineeing {missing values + one-hot-encoding&|labelencoding}</li>
+  <li>Data Splitting<li>
+  <li>Feature Scaling</li>
+  
+  <li>Model</li>
+  <li>Evaluate</li>
+</ol>
+
 # Machine_Learning
 In this section, I will put and update my machine learning related codes:
 
