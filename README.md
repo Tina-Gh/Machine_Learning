@@ -16,9 +16,8 @@ The general machine learning methodology:
   <li>Importing the libraries</li>
   <li>Importing the dataset {df + x&y}</li>
   <li>Data Engineeing {missing values + one-hot-encoding&|labelencoding}</li>
-  <li>Data Splitting<li>
+  <li>Data Splitting</li>
   <li>Feature Scaling</li>
-  
   <li>Model</li>
   <li>Evaluate</li>
 </ol>
